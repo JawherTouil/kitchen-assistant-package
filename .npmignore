@@ -1,0 +1,24 @@
+# Development files
+.env
+node_modules/
+
+# Git files
+.git/
+.gitignore
+
+# Testing
+test/
+*.test.js
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
